@@ -14,9 +14,3 @@ Version: v1.0
 * To replicate the plots, run "betterment_graphs.py" after "run_analysis.py"
 * Dependencies: Pandas, pandas_datareader, json, urllib2, re, and statsmodels
 * Note: Plotly must be installed and the related credentials file must be setup in order to build the charts
-
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
