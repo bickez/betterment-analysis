@@ -21,4 +21,4 @@ for p in ports:
 
 
 output.to_csv('famafrench_output.csv')
-reg_summary = summary_col(regresults,stars=True)
+reg_summary = summary_col(regresults, stars=True)
