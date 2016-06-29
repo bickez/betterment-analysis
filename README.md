@@ -3,7 +3,7 @@
 
 ### What is this repository for? ###
 
-* Quick summary
+This repository houses the code accompanying the blog post entitled "Betterment Portfolio Alpha" on puppyEconomics.
 Version: v1.0
 
 
