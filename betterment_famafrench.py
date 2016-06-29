@@ -19,7 +19,6 @@ for p in ports:
 	output.loc[len(output)] = [100 - int(p.split('bmt')[-1]), res.params[0], res.pvalues[0] < 0.05, mu, sigma, mu/sigma]
 	regresults.append(res)
 
-print output
+
 output.to_csv('famafrench_output.csv')
 reg_summary = summary_col(regresults,stars=True)
-print reg_summary
